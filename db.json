@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "jorge morales ",
+      "empresa": "ith",
+      "telefono": "666666666",
+      "email": "corre@correo.com",
+      "notas": "lele mucho pancha",
+      "id": 1
+    },
+    {
+      "nombre": "jorge morales ",
+      "empresa": "ith",
+      "telefono": "666666666",
+      "email": "corre@correo.com",
+      "notas": "lele mucho pancha",
+      "id": 2
+    },
+    {
+      "nombre": "Quia debitis ipsum d",
+      "empresa": "Minus qui aliquam ex",
+      "telefono": "+1 (153) 432-2775",
+      "email": "mino@mailinator.com",
+      "notas": "Sequi non nostrum ei",
+      "id": 3
+    },
+    {
+      "nombre": "Sit eaque dolor exce",
+      "empresa": "Cumque magnam nulla ",
+      "telefono": "+1 (903) 606-6896",
+      "email": "vomup@mailinator.com",
+      "notas": "Ipsam est sapiente n",
+      "id": 4
+    }
+  ]
+}
