@@ -1,18 +1,18 @@
 {
   "clientes": [
     {
-      "nombre": "jorge morales ",
+      "nombre": "jorge ",
       "empresa": "ith",
       "telefono": "666666666",
-      "email": "corre@correo.com",
+      "email": "masa@masa.com",
       "notas": "lele mucho pancha",
       "id": 1
     },
     {
-      "nombre": "jorge morales ",
-      "empresa": "ith",
+      "nombre": "jorge mite",
+      "empresa": "YT",
       "telefono": "666666666",
-      "email": "corre@correo.com",
+      "email": "Jorge@mite.com",
       "notas": "lele mucho pancha",
       "id": 2
     },

@@ -7,7 +7,7 @@ const Cliente = ({cliente, handleEliminar}) => {
 
     const {nombre, empresa, email, telefono, notas, id} = cliente
   return (
-    <tr className='border-b hover:bg-gray-100'>
+    <tr className='border-b hover:bg-gray-100 text-center'>
         <td className='p-3'>{nombre}</td>
         <td className='p-3'>
             <p> <span className='text-gray-800 font-bold'>Email</span>{email} </p>

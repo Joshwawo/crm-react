@@ -32,7 +32,7 @@ const VerCliente = () => {
   ) : (
     <div>
       <h1 className="font-black text-4xl text-blue-600 ">
-        Ver Cliente: {cliente.nombre}
+         Cliente: {cliente.nombre}
       </h1>
       <p>Informacion del cliente</p>
 

@@ -7,6 +7,7 @@ import EditarCliente from "./pages/EditarCliente";
 import VerCliente from "./pages/VerCliente";
 import Inicio from "./pages/Inicio";
 import NuevoCliente from "./pages/NuevoCliente";
+import Error404 from "./pages/Error404";
 
 function App() {
   console.log(import.meta.env)
@@ -26,6 +27,7 @@ function App() {
             
       
           </Route>
+          <Route path="/*" element={<Error404/>} /> 
         </Routes>
       
       </BrowserRouter>
