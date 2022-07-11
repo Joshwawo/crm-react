@@ -4,7 +4,7 @@ import {Outlet} from 'react-router-dom'
 const IniciarSesion = () => {
   return (
     <div>
-      <h1>Desde IniciarSesion</h1>
+      <h1>Desde IniciarSesions</h1>
       <Outlet/>
     </div>
   )
