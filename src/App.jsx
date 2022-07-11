@@ -9,6 +9,7 @@ import Inicio from "./pages/Inicio";
 import NuevoCliente from "./pages/NuevoCliente";
 
 function App() {
+  console.log(import.meta.env)
   
   return (
     <div>
