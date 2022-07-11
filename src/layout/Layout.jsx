@@ -8,7 +8,7 @@ const Layout = () => {
 
   return (
     <div className="md:flex md:min-h-screen ">
-      <div className="md:w-1/4 bg-blue-700 px-5 py-10">
+      <div className="md:w-1/4 bg-blue-700 px-5 py-10 a">
         <h2 className=" text-4xl font-black text-center text-white">
           CRM - Clientes
         </h2>
